@@ -16,8 +16,8 @@
 ## 📌 Destaques da Trajetória
 
 - **CI&T** (2023-2025): Estruturei interfaces escaláveis com Angular e TypeScript, reduzindo dívida técnica e atuando como ponte entre design e produto.
-- **Americanas S.A.** (2019-2022): Desenvolvi interfaces de alto tráfego para e-commerce, garantindo estabilidade e performance em períodos críticos como Black Friday.
 - **Valemobi** (2022-2023): Entreguei soluções Front-End com foco em performance e usabilidade, fortalecendo a cultura de ownership e code review.
+- **Americanas S.A.** (2019-2022): Desenvolvi interfaces de alto tráfego para e-commerce, garantindo estabilidade e performance em períodos críticos como Black Friday.
 
 ---
 
