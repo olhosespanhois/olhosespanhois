@@ -1,0 +1,392 @@
+{
+  "username": "olhosespanhois",
+  "widgets": [
+    {
+      "instanceId": "widget_1787773880503",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#02eda7",
+        "lockAspectRatio": true,
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1
+    },
+    {
+      "instanceId": "widget_1787773933911",
+      "widgetId": "avatar",
+      "name": "Avatar Widget",
+      "position": {
+        "x": 12,
+        "y": 102
+      },
+      "size": {
+        "width": 276,
+        "height": 276
+      },
+      "config": {
+        "lockAspectRatio": true,
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 2
+    },
+    {
+      "instanceId": "widget_1787773950185",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
+      "position": {
+        "x": 296,
+        "y": 108
+      },
+      "size": {
+        "width": 504,
+        "height": 264
+      },
+      "config": {
+        "headerColor": "#55ffff",
+        "labelColor": "#ff3366",
+        "dotColor": "#4d3a66",
+        "valueColor": "#e6fbfb",
+        "statsValColor": "#55ffff",
+        "dividerColor": "#2d1f3f",
+        "dotLeaders": true,
+        "showFollowing": true,
+        "showJoined": true,
+        "showTimezone": true,
+        "showPronouns": true,
+        "showAchievements": false,
+        "showStatus": true,
+        "showHighlights": true,
+        "customTitle": "Infos",
+        "borderColor": "#212830",
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 3
+    },
+    {
+      "instanceId": "widget_1787775455462",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 384
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#02eda7",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1787774291396",
+      "widgetId": "bio",
+      "name": "Bio Widget",
+      "position": {
+        "x": 0,
+        "y": 420
+      },
+      "size": {
+        "width": 800,
+        "height": 408
+      },
+      "config": {
+        "hideBorder": true,
+        "hideDecorations": true,
+        "customBlog": "",
+        "customLocation": "",
+        "customBio": "Sou Analista de Sistemas com mais de 10 anos de experiência em Front-End, desenvolvendo produtos digitais intuitivos, acessíveis e de alta performance. Atuei em empresas como CI&T e Americanas S.A., onde trabalhei com Angular e TypeScript no desenvolvimento de aplicações robustas, com entregas críticas em Black Friday e integração com Salesforce.\nAo longo da minha trajetória, desenvolvi um olhar apurado para performance, acessibilidade (WCAG) e boas práticas de desenvolvimento — garantindo que as aplicações não apenas funcionem, mas entreguem a melhor experiência possível para todos os usuários. Atuo ativamente em code reviews e definições técnicas, promovendo qualidade e padronização nos times.\nTenho forte atuação em metodologias ágeis, colaboração direta com design e produto, e liderança técnica em sprints — sempre com foco em traduzir necessidades de negócio em soluções escaláveis e de alto impacto.\nBusco oportunidades para aplicar minha experiência em projetos desafiadores, onde possa contribuir com a evolução de produtos digitais e o crescimento de times de tecnologia. Vamos conversar? Conecte-se comigo ou me envie uma mensagem",
+        "customTitle": "",
+        "lockAspectRatio": false,
+        "animationType": "slide-right",
+        "animationPreviewKey": 7
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1787775553374",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 834
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#02eda7",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "animationType": "fade-in",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1787775661973",
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 400,
+        "y": 864
+      },
+      "size": {
+        "width": 400,
+        "height": 200
+      },
+      "config": {
+        "selectedTechs": [
+          "ts",
+          "js",
+          "sass",
+          "dart",
+          "html",
+          "css",
+          "angular",
+          "bootstrap",
+          "figma",
+          "vscode",
+          "flutter",
+          "php",
+          "tailwind",
+          "jquery",
+          "mui",
+          "webpack",
+          "mysql",
+          "github",
+          "git",
+          "gitlab",
+          "jest",
+          "bitbucket"
+        ],
+        "perLine": 9,
+        "hideDecorations": true,
+        "hideBorder": true,
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1787775672266",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 870
+      },
+      "size": {
+        "width": 400,
+        "height": 208
+      },
+      "config": {
+        "hideBorder": true,
+        "hideDecorations": true,
+        "langsCount": 10,
+        "animationType": "slide-up",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1787776213333",
+      "widgetId": "stats",
+      "name": "Stats Widget",
+      "position": {
+        "x": 0,
+        "y": 1078
+      },
+      "size": {
+        "width": 800,
+        "height": 120
+      },
+      "config": {
+        "accentColor": "#02eda7",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "statsLayout": "horizontal",
+        "statsStyle": "default",
+        "labelStyle": "icon",
+        "valueFontSize": 18,
+        "animationType": "flip-x",
+        "animationPreviewKey": 3
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1787776506490",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1202
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#02eda7",
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 10
+    },
+    {
+      "instanceId": "widget_1787776763970",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
+      "position": {
+        "x": 0,
+        "y": 1232
+      },
+      "size": {
+        "width": 800,
+        "height": 340
+      },
+      "config": {
+        "repoCardHeight": 52,
+        "accentColor": "#02eda7",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "repoViewMode": "grid",
+        "maxRepos": 6,
+        "animationType": "slide-left",
+        "animationPreviewKey": 2
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 11
+    },
+    {
+      "instanceId": "widget_1787776924577",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 1590
+      },
+      "size": {
+        "width": 800,
+        "height": 88
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "website",
+          "email"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/olhosespanhois",
+          "linkedin": "https://www.linkedin.com/in/samiranb/",
+          "website": "http://bit.ly/4rYZaV4",
+          "email": "mailto:samiranbittar@outlook.com"
+        },
+        "badgeStyle": "flat-square",
+        "hideBorder": true,
+        "hideDecorations": true,
+        "animationType": "flip-x",
+        "animationPreviewKey": 1
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 12
+    },
+    {
+      "instanceId": "widget_1787777365626",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 1694
+      },
+      "size": {
+        "width": 800,
+        "height": 30
+      },
+      "config": {
+        "accentColor": "#02eda7",
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 13
+    },
+    {
+      "instanceId": "widget_1787777434632",
+      "widgetId": "footer",
+      "name": "Footer Widget",
+      "position": {
+        "x": 0,
+        "y": 1740
+      },
+      "size": {
+        "width": 800,
+        "height": 50
+      },
+      "config": {
+        "hideBorder": true,
+        "hideDecorations": true,
+        "accentColor": "#02eda7"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#0d1117",
+    "textColor": "#e5e5e5",
+    "accentColor": "#02eda7",
+    "borderColor": "#252525",
+    "fontFamily": "Roboto",
+    "borderRadius": 0,
+    "padding": 16,
+    "themeMode": "auto",
+    "templateStyle": "blank",
+    "transparentBackground": false
+  },
+  "templateId": "blank",
+  "profileSlug": "default"
+}
