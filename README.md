@@ -31,3 +31,12 @@ Buscando oportunidades para aplicar minha experiência em projetos desafiadores,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/samiranb/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-bit.ly/4rYZaV4-green)](http://bit.ly/4rYZaV4)
+
+
+<a href="https://gitascii.com">
+  <img
+    src="https://gitascii.com/api/olhosespanhois?v=1787777707800"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
