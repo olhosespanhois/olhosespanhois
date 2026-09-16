@@ -17,7 +17,10 @@
         "accentColor": "#02eda7",
         "lockAspectRatio": true,
         "hideBorder": true,
-        "hideDecorations": true
+        "hideDecorations": true,
+        "animationType": "none",
+        "animationPreviewKey": 1,
+        "showTitle": true
       },
       "locked": false,
       "visible": true,
@@ -109,7 +112,7 @@
       "name": "Bio Widget",
       "position": {
         "x": 0,
-        "y": 420
+        "y": 414
       },
       "size": {
         "width": 800,
@@ -120,7 +123,7 @@
         "hideDecorations": true,
         "customBlog": "",
         "customLocation": "",
-        "customBio": "acessíveis e de alta performance. Atuei em empresas como CI&T e Americanas S.A., com Angular e TypeScript no desenvolvimento de aplicações robustas, incluindo entregas críticas em Black Friday e integração com Salesforce.\n\nAo longo da minha trajetória, desenvolvi um olhar apurado para performance, acessibilidade (WCAG) e boas práticas de desenvolvimento, garantindo que as aplicações não apenas funcionem, mas entreguem a melhor experiência possível para todos os usuários. Tenho forte atuação em code reviews, definições técnicas e colaboração direta com design e produto, promovendo qualidade, padronização e decisões mais eficazes nos times.\n\nAtuo em metodologias ágeis e liderança técnica em sprints, com foco em traduzir necessidades de negócio em soluções escaláveis e de alto impacto. Busco oportunidades para aplicar minha experiência em projetos desafiadores, contribuindo para a evolução de produtos digitais e o crescimento de times de tecnologia.",
+        "customBio": "Sou Analista de Sistemas com mais de 10 anos de experiência em Front-End, desenvolvendo produtos digitais intuitivos, acessíveis e de alta performance. Atuei em empresas como CI&T e Americanas S.A., com Angular e TypeScript no desenvolvimento de aplicações robustas, incluindo entregas críticas em Black Friday e integração com Salesforce.\nAo longo da minha trajetória, desenvolvi um olhar apurado para performance, acessibilidade (WCAG) e boas práticas de desenvolvimento, garantindo que as aplicações não apenas funcionem, mas entreguem a melhor experiência possível para todos os usuários. Tenho forte atuação em code reviews, definições técnicas e colaboração direta com design e produto, promovendo qualidade, padronização e decisões mais eficazes nos times.\nAtuo em metodologias ágeis e liderança técnica em sprints, com foco em traduzir necessidades de negócio em soluções escaláveis e de alto impacto. Busco oportunidades para aplicar minha experiência em projetos desafiadores, contribuindo para a evolução de produtos digitais e o crescimento de times de tecnologia.",
         "customTitle": "",
         "lockAspectRatio": false,
         "animationType": "slide-right",
