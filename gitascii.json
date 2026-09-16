@@ -120,7 +120,7 @@
         "hideDecorations": true,
         "customBlog": "",
         "customLocation": "",
-        "customBio": "Sou Analista de Sistemas com mais de 10 anos de experiência em Front-End, desenvolvendo produtos digitais intuitivos, acessíveis e de alta performance. Atuei em empresas como CI&T e Americanas S.A., onde trabalhei com Angular e TypeScript no desenvolvimento de aplicações robustas, com entregas críticas em Black Friday e integração com Salesforce.\nAo longo da minha trajetória, desenvolvi um olhar apurado para performance, acessibilidade (WCAG) e boas práticas de desenvolvimento — garantindo que as aplicações não apenas funcionem, mas entreguem a melhor experiência possível para todos os usuários. Atuo ativamente em code reviews e definições técnicas, promovendo qualidade e padronização nos times.\nTenho forte atuação em metodologias ágeis, colaboração direta com design e produto, e liderança técnica em sprints — sempre com foco em traduzir necessidades de negócio em soluções escaláveis e de alto impacto.\nBusco oportunidades para aplicar minha experiência em projetos desafiadores, onde possa contribuir com a evolução de produtos digitais e o crescimento de times de tecnologia. Vamos conversar? Conecte-se comigo ou me envie uma mensagem",
+        "customBio": "acessíveis e de alta performance. Atuei em empresas como CI&T e Americanas S.A., com Angular e TypeScript no desenvolvimento de aplicações robustas, incluindo entregas críticas em Black Friday e integração com Salesforce.\n\nAo longo da minha trajetória, desenvolvi um olhar apurado para performance, acessibilidade (WCAG) e boas práticas de desenvolvimento, garantindo que as aplicações não apenas funcionem, mas entreguem a melhor experiência possível para todos os usuários. Tenho forte atuação em code reviews, definições técnicas e colaboração direta com design e produto, promovendo qualidade, padronização e decisões mais eficazes nos times.\n\nAtuo em metodologias ágeis e liderança técnica em sprints, com foco em traduzir necessidades de negócio em soluções escaláveis e de alto impacto. Busco oportunidades para aplicar minha experiência em projetos desafiadores, contribuindo para a evolução de produtos digitais e o crescimento de times de tecnologia.",
         "customTitle": "",
         "lockAspectRatio": false,
         "animationType": "slide-right",
@@ -136,7 +136,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 834
+        "y": 728
       },
       "size": {
         "width": 800,
@@ -159,7 +159,7 @@
       "name": "Tech-stack Widget",
       "position": {
         "x": 400,
-        "y": 864
+        "y": 758
       },
       "size": {
         "width": 400,
@@ -206,7 +206,7 @@
       "name": "Languages Widget",
       "position": {
         "x": 0,
-        "y": 870
+        "y": 758
       },
       "size": {
         "width": 400,
@@ -229,7 +229,7 @@
       "name": "Stats Widget",
       "position": {
         "x": 0,
-        "y": 1078
+        "y": 978
       },
       "size": {
         "width": 800,
@@ -256,7 +256,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 1202
+        "y": 1102
       },
       "size": {
         "width": 800,
@@ -277,7 +277,7 @@
       "name": "Repositories Widget",
       "position": {
         "x": 0,
-        "y": 1232
+        "y": 1128
       },
       "size": {
         "width": 800,
@@ -303,7 +303,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 1590
+        "y": 1476
       },
       "size": {
         "width": 800,
@@ -338,7 +338,7 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 1694
+        "y": 1568
       },
       "size": {
         "width": 800,
@@ -359,7 +359,7 @@
       "name": "Footer Widget",
       "position": {
         "x": 0,
-        "y": 1740
+        "y": 1602
       },
       "size": {
         "width": 800,
