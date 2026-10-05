@@ -2,31 +2,6 @@
   "username": "olhosespanhois",
   "widgets": [
     {
-      "instanceId": "widget_1787773880503",
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {
-        "accentColor": "#02eda7",
-        "lockAspectRatio": true,
-        "hideBorder": true,
-        "hideDecorations": true,
-        "animationType": "none",
-        "animationPreviewKey": 1,
-        "showTitle": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 1
-    },
-    {
       "instanceId": "widget_1787773950185",
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
@@ -355,6 +330,26 @@
       "locked": false,
       "visible": true,
       "zIndex": 14
+    },
+    {
+      "instanceId": "widget_1791218804469",
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "hideBorder": true,
+        "hideDecorations": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 14
     }
   ],
   "globalStyles": {
@@ -370,5 +365,9 @@
     "transparentBackground": false
   },
   "templateId": "blank",
-  "profileSlug": "default"
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1791219170117_hjhl1",
+    "updatedAt": "2026-10-05T16:52:52.725Z"
+  }
 }
